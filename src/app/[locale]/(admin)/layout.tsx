@@ -8,6 +8,7 @@ import { getAllConfigs } from '@/shared/models/config';
 import { Sidebar as SidebarType } from '@/shared/types/blocks/dashboard';
 
 /**
+ * 666
  * Admin layout to manage datas
  */
 export default async function AdminLayout({
